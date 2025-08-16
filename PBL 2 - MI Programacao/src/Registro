@@ -1,0 +1,16 @@
+-> Adequação ao padrão MVC
+-> Adicionei a Classe CadastrarEquipe
+-> serialVersionUID padrão, dps de implementado n vai ter atualização nas classe
+-> Serializacao e Desserializacao feitos
+
+Feito:
+-> Aplicar Factory no Cadastro (Descartado: Desnecessariamente complexo)
+-> Aplicar Strategy na Busca, Listagem e Exibição (Aplicado de forma estranha)
+-> Aplicar Observer na Atualização do Acervo (Descartado: Desnecessariamente complexo)
+-> Aplicar Template Method na Avaliação (Descartado: Desnecessariamente complexo)
+-> Classe Cadastrar Pessoa (OK)
+-> Criar as classe de atualização e tirar do menu
+-> Coloquei as entradas na mesma linha do texto
+-> Adicionei as linhas entre cada menu
+-> Colorir as exibições
+-> Ordenação pelas avaliações apos avaliar

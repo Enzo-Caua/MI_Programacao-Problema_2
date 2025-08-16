@@ -1,0 +1,14 @@
+-> Fazer Validação
+-> A busca para alteração precisa ser exata, possivel solução: Listar todos encontrados e
+   o usuario escolher pelo indice
+-> Definir ano de termino
+
+Ideias:
+-> Alterar Genero e Plataforma para lista de String
+-> Exibições por intervalo (Ano de Lançamento, Duracao, etc)
+-> Exibição da listagem em tabela
+-> Adicionar Remoção
+
+Exibição:
+-> Entradas e texto na mesma linha
+-> Garantir q as informações caibam na tabela
